@@ -1,6 +1,5 @@
 package com.blz.hashtable;
 
-
 public class HashTableImplementation<K, V> {
 	Node head;
 	Node tail;
